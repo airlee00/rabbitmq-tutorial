@@ -1,6 +1,0 @@
-analyseLocally=false
-eclipse.preferences.version=1
-extraProperties=
-projectKey=com.toms.mq.rabbitmq\:RabbitMQTutorial
-serverUrl=http\://localhost\:8080/rabbitmqtutorial
-version=2
