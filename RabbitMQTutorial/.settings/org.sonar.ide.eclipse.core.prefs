@@ -1,6 +1,6 @@
 analyseLocally=false
 eclipse.preferences.version=1
 extraProperties=
-projectKey=com.kyowon.allng.cms\:AllngCmsApi
-serverUrl=http\://172.16.30.51\:8080/sonar
+projectKey=com.toms.mq.rabbitmq\:RabbitMQTutorial
+serverUrl=http\://localhost\:8080/rabbitmqtutorial
 version=2
