@@ -11,7 +11,7 @@
 
 	<appender name="FILE" class="org.apache.log4j.DailyRollingFileAppender">
 		<param name="Append" value="true" />
-		<param name="File" value="${catalina.home}/logs/cms/cms_application.log" />
+		<param name="File" value="${catalina.home}/logs/rabbit_application.log" />
 		<param name="DatePattern" value="'.'yyyy-MM-dd" />
 		<layout class="org.apache.log4j.PatternLayout">
 			<param name="ConversionPattern" value="[%d{yyyy-MM-dd hh:mm:ss}][%-5p]%C{1}.%M(%L) | %m%n" />
