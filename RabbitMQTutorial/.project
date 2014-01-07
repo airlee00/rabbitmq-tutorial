@@ -3,7 +3,7 @@
 	<name>RabbitMQTutorial</name>
 	<comment></comment>
 	<projects>
-		<project>AllngCmsBiz</project>
+		<project>RabbitMQTutorial</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
